@@ -12,22 +12,29 @@ ThermoScout-Thermoelectric-Surveillance-Robot/
 │   └── main.py
 │
 ├── HARDWARE/
-│   ├── Circuit_Diagram.png
-│   ├── TEG_Setup.png
-│   └── Chassis_Design.png
+│   ├── Circuit_Diagram.jpg
+│   ├── TEG_Setup.jpg
+│   └── Chassis_Design
+│      ├── Level1.png
+│      ├── Level2.png
+│      └── Level3.png
 │
 ├── DOCUMENTATION/
 │   ├── IEEE_Paper.pdf
 │   └── EL_Report.pdf
 │
-├── MEDIA/
-│   ├── Images/
-│   │   ├── Model_Front_View.jpg
-│   │   ├── Fire_Detection.jpg
-│   │   ├── Knife_Detection.jpg
-│   │   └── TEGs.jpg
-│   └── Videos/
-└── 
+└── MEDIA/
+    ├── Images/
+    │   ├── Model_View.jpg
+    │   ├── Model_Front_View.jpg
+    │   ├── Fire_Detection.jpg
+    │   ├── Knife_Detection.jpg
+    │   └── TEGs.jpg
+    └── Videos/
+        ├── TEG_Testing.mp4
+        ├── Fire_Detection.mp4
+        └── Knife_Detection.mp4
+
 ```
 
 ## 🚀 Project Overview
